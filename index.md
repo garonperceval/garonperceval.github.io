@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-
+### Welcome
 
 I am a researcher at Monash University Suzhou whose current work focuses on environmental psychology, virtual reality, biophilic design, and mental health and wellbeing.
 
@@ -26,6 +26,18 @@ Current research interests include:
 - Environmental determinants of positive affect and awe
 - Nature-based interventions for mental health
 - Evidence synthesis of biophilic design outcomes
+
+---
+
+### Teaching:
+
+Over the past several years I have gained experience teaching a range of subjects to both undergraduate students across a range of disciplines and in several higher education settings within China. 
+
+Topics include:
+- Ethics in research and professional practice
+- Post-graduate research methods
+- Introductory Psychology
+- Mental Health Assessment
 
 ---
 
