@@ -2,12 +2,12 @@
 
 main:
   name        : "Garon Perceval"
-  avatar      : "/images/IMG_1617.JPG"
+  avatar      : "/images/themes/IMG_1617.JPG"
   bio         : "Research Fellow"
   location    : "Suzhou, China"
   employer    : "Monash University Suzhou"
   email       : "garon.perceval@monash.edu"
 
-  googlescholar: "yKYTzcoAAAAJ"
-  orcid: "0000-0003-2352-108X"
+  googlescholar: "https://scholar.google.com/citations?user=yKYTzcoAAAAJ"
+  orcid: "https://orcid.org/0000-0003-2352-108X"
   #researchgate: "YOUR_RESEARCHGATE_URL"
