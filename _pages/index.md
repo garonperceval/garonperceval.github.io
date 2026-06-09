@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Garon Perceval"
 author_profile: true
 ---
 
