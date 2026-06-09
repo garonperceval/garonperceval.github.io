@@ -2,7 +2,7 @@
 title: "Publications"
 collection: publications
 permalink: /publications/
-
+---
 
 
 
