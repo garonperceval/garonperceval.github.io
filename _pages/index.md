@@ -8,7 +8,7 @@ author_profile: true
 
 I am a researcher at Monash University Suzhou whose current work focuses on environmental psychology, virtual reality, biophilic design, and mental health and wellbeing.
 
-My research examines how physical and virtual environments influence emotional experiences, wellbeing, restoration, positive affect, and awe.
+My research examines how physical and virtual environments influence wellbeing, restoration, and emotional experiences (e.g., positive affect, awe).
 
 Current research interests include:
 
