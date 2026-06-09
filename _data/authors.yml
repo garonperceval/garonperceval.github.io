@@ -1,8 +1,8 @@
 # Authors
 
-main:
+author:
   name        : "Garon Perceval"
-  #avatar      : "/images/profile_picture.png"
+  avatar      : "/images/profile_picture.png"
   bio         : "Research Fellow"
   location    : "Suzhou, China"
   employer    : "Monash University Suzhou"
