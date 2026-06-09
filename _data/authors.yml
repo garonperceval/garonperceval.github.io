@@ -1,18 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Garon:
+  name        : "Garon Perceval"
+  avatar      : "/images/profile.jpg"
+  bio         : "Researcher in Virtual Reality, Environmental Psychology and Biophilic Design"
+  location    : "Suzhou, China"
+  employer    : "Monash University Suzhou"
+  email       : "your.email@monash.edu"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  googlescholar: "YOUR_GOOGLE_SCHOLAR_ID"
+  orcid: "YOUR_ORCID_ID"
+  researchgate: "YOUR_RESEARCHGATE_URL"
