@@ -2,7 +2,7 @@
 
 main:
   name        : "Garon Perceval"
-  avatar      : "/images/IMG_1617.JPG"
+  avatar      : "/images/profile.jpg"
   bio         : "Research Fellow"
   location    : "Suzhou, China"
   employer    : "Monash University Suzhou"
