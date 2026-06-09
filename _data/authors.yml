@@ -6,8 +6,8 @@ main:
   bio         : "Research Fellow"
   location    : "Suzhou, China"
   employer    : "Monash University Suzhou"
-  email       : "your.email@monash.edu"
+  email       : "garon.perceval@monash.edu"
 
-  googlescholar: "YOUR_GOOGLE_SCHOLAR_ID"
-  orcid: "YOUR_ORCID_ID"
-  researchgate: "YOUR_RESEARCHGATE_URL"
+  googlescholar: "yKYTzcoAAAAJ"
+  orcid: "0000-0003-2352-108X"
+  #researchgate: "YOUR_RESEARCHGATE_URL"
