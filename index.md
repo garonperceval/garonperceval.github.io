@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-### Welcome
+### About Me
 
 I am a researcher at Monash University Suzhou whose current work focuses on environmental psychology, virtual reality, biophilic design, and mental health and wellbeing.
 
