@@ -5,22 +5,22 @@ title: "Research"
 
 ## Research Themes
 
-### Virtual Reality and Wellbeing
+### Positive psychology and wellbeing:
 
-Using immersive virtual reality to investigate environmental influences on psychological outcomes.
+Investigating the role of awe, nature exposure, and biophilic design in enhancing mental health and psychological wellbeing. 
 
-### Biophilic Design
+### Environmental and cognitive neuroscience: 
 
-Exploring how nature-inspired environments affect mental health and emotional wellbeing.
+Exploring how architectural spaces and built environments affect emotion, stress, and cognition.
 
-### Awe and Architecture
+### Digital media and Social Emotional Development:
 
-Examining how spatial design characteristics evoke awe and positive emotional responses.
+Investigating the effects of digital media use on child and adolescent social emotional development
 
-### Environmental Psychology
+### Non-invasive brain stimulation (tDCS) and learning and cognition:
 
-Understanding interactions between people and environments.
+Studying the neural mechanisms underlying learning, memory, and social cognition.
 
-### Evidence Synthesis
 
-Conducting systematic reviews and meta-analyses on environmental interventions and wellbeing.
+
+
