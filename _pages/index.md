@@ -38,8 +38,8 @@ Monash University Suzhou
 
 ### Contact
 
-Email: your.email@monash.edu
+Email: garon.perceval@monash.edu
 
-ORCID: [ORCID link]
+ORCID: https://orcid.org/0000-0003-2352-108X
 
-Google Scholar: [Scholar link]
+Google Scholar: https://scholar.google.com/citations?user=yKYTzcoAAAAJ&hl=en&oi=ao
