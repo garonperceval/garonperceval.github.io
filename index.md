@@ -32,7 +32,7 @@ Current research interests include:
 
 ### Teaching:
 
-Over the past several years I have gained experience teaching a range of subjects to both undergraduate students across a range of disciplines and in several higher education settings within China. 
+Over the past several years I have gained experience teaching a range of subjects to both undergraduate and postgraduate students across a range of disciplines and in multiple higher education settings within China. 
 
 Topics include:
 - Ethics in research and professional practice
