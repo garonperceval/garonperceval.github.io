@@ -4,9 +4,15 @@ title: "Garon Perceval"
 author_profile: true
 ---
 
-## Welcome
 
-I am a researcher at Monash University Suzhou whose work focuses on environmental psychology, virtual reality, biophilic design, and mental health.
+
+## Biography
+
+Dr. Garon Perceval is a researcher at Monash University Suzhou whose work investigates the relationship between environmental design and psychological wellbeing.
+
+His research combines immersive virtual reality, environmental psychology, and quantitative research methods to examine how physical and virtual environments influence mental health, emotional responses, positive affect, and awe.
+
+Current projects focus on virtual biophilic environments, architectural awe experiences, and mechanisms linking environmental exposure to wellbeing outcomes.
 
 My research examines how physical and virtual environments influence emotional experiences, wellbeing, restoration, positive affect, and awe.
 
