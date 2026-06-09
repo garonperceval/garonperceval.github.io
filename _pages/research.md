@@ -13,7 +13,7 @@ Investigating the role of awe, nature exposure, and biophilic design in enhancin
 
 Exploring how architectural spaces and built environments affect emotion, stress, and cognition.
 
-### Digital media and Social Emotional Development:
+### Digital media and social emotional development:
 
 Investigating the effects of digital media use on child and adolescent social emotional development
 
