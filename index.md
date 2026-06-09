@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Welcome
 author_profile: true
 ---
 
